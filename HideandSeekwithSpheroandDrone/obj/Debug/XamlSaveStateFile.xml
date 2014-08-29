@@ -1,0 +1,12 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\chmathen.northamerica\downloads\hideandseekwithspheroanddrone\hideandseekwithspheroanddrone\obj\debug\intermediatexaml\hideandseekwithspheroanddrone.exe" HashGuid="61624a1f-e34c-9dad-35e2-9089733de2a2" />
+    <ReferenceAssembly PathName="c:\users\chmathen.northamerica\downloads\hideandseekwithspheroanddrone\packages\microsoft.bcl.async.1.0.16\lib\win8\microsoft.threading.tasks.dll" HashGuid="6ff4c9bc-43f0-2289-5499-d3da0d316240" />
+    <ReferenceAssembly PathName="c:\users\chmathen.northamerica\downloads\hideandseekwithspheroanddrone\packages\microsoft.bcl.async.1.0.16\lib\win8\microsoft.threading.tasks.extensions.dll" HashGuid="79a01987-c06c-c9d7-37eb-629809787680" />
+    <ReferenceAssembly PathName="c:\users\chmathen.northamerica\downloads\hideandseekwithspheroanddrone\packages\windowsazure.mobileservices.1.1.4\lib\netcore45\microsoft.windowsazure.mobile.dll" HashGuid="a6c5abef-1d88-78bc-fafc-53b939174976" />
+    <ReferenceAssembly PathName="c:\users\chmathen.northamerica\downloads\hideandseekwithspheroanddrone\packages\windowsazure.mobileservices.1.1.4\lib\netcore45\microsoft.windowsazure.mobile.ext.dll" HashGuid="5f1c9559-3f7b-fabf-491b-b0b7501d7e4d" />
+    <ReferenceAssembly PathName="c:\users\chmathen.northamerica\downloads\hideandseekwithspheroanddrone\packages\newtonsoft.json.5.0.8\lib\netcore45\newtonsoft.json.dll" HashGuid="fccaaf2a-e039-795e-45a4-59ce84d1518d" />
+    <ReferenceAssembly PathName="c:\users\chmathen.northamerica\downloads\hideandseekwithspheroanddrone\packages\microsoft.net.http.2.2.15\lib\win8\system.net.http.extensions.dll" HashGuid="b50282f8-b9f8-4408-8d49-ba2efe301624" />
+    <ReferenceAssembly PathName="c:\users\chmathen.northamerica\downloads\hideandseekwithspheroanddrone\packages\microsoft.net.http.2.2.15\lib\win8\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
